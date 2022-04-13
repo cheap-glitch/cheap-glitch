@@ -7,5 +7,3 @@ Yo! I'm a self-taught developer named Florent (🇫🇷️), and I really enjoy 
  * [and more!](https://github.com/cheap-glitch?tab=repositories&sort=stargazers)
 
 I'm also a maintainer of the awesome [:octocat: Refined GitHub](https://github.com/refined-github/refined-github) extension — if you don't already use it, you should start right now! It will make your day-to-day usage of GitHub a lot more productive and enjoyable.
-
-Your sponsorship will allow me to spend more time on OSS, and hopefully make more of my ideas a reality ❤️
